@@ -16,6 +16,6 @@ class Program
 
     static void AfficherBienvenue()
     {
-        Console.WriteLine("Bienvenue dans votre aventure, héros !");
+        Console.WriteLine("Bienvenue dans votre aventure héros !");
     }
 }
